@@ -5,4 +5,4 @@ c;
 ls;
 "ls;"
 ""test
-;sleep 10;
+";sleep 10;
